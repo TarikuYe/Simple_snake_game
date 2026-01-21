@@ -35,17 +35,17 @@ snake_game/
 - Game Over detection
 - Easy to modify and expand
 
-## 💡 Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3 (Internal Style)
 - JavaScript (Internal Script)
 
-## 🧑‍💻 Author
+## Author
 
 Created by [TarikuYe]  
 Feel free to use and modify this project for learning or personal purposes.
 
-## 📄 License
+## License
 
 This project is open-source and available under the [MIT License](LICENSE).
