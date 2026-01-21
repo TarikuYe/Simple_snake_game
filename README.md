@@ -28,7 +28,7 @@ snake_game/
 - Eat the red food square to grow the snake and increase your score.
 - The game ends when the snake hits the wall or itself.
 
-## 🛠️ Features
+## Features
 
 - Lightweight and simple UI
 - Score tracking
