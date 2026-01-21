@@ -2,7 +2,7 @@
 
 This is a simple implementation of the classic Snake Game using just **one HTML file**. All the **JavaScript** and **CSS** are written internally (within the same file). The game runs directly in the browser without needing any external dependencies.
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone or download this repository.
 2. Open the `snake_game.html` file in any modern web browser (Chrome, Firefox, Edge, etc.).
