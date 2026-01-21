@@ -16,7 +16,7 @@ This is a simple implementation of the classic Snake Game using just **one HTML 
 | Hard   | 80 ms                | Fast and challenging    |
 
 You can select the difficulty mode from a dropdown or buttons before starting the game.
-## 📁 File Structure
+## File Structure
 
 snake_game/
 ├── snake_game.html # All-in-one HTML file with embedded JS and CSS
