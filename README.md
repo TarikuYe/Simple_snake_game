@@ -7,7 +7,7 @@ This is a simple implementation of the classic Snake Game using just **one HTML 
 1. Clone or download this repository.
 2. Open the `snake_game.html` file in any modern web browser (Chrome, Firefox, Edge, etc.).
 3. Use the arrow keys (⬅️⬆️➡️⬇️) to control the snake.
-## 🎮 Game Modes
+## Game Modes
 
 | Mode   | Speed (ms per move) | Description             |
 |--------|----------------------|-------------------------|
