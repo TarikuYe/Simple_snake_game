@@ -22,7 +22,7 @@ snake_game/
 ├── snake_game.html # All-in-one HTML file with embedded JS and CSS
 └── README.md # Project documentation
 
-## 🎮 Game Rules
+## Game Rules
 
 - Use the **arrow keys** to move the snake.
 - Eat the red food square to grow the snake and increase your score.
